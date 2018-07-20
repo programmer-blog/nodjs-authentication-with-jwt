@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-authentication-with-jwt",
+  "version": "1.0.0",
+  "description": "nodejs authentication with jwt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "programmerblog.net",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0",
+    "nodemon": "^1.17.5"
+  }
+}
